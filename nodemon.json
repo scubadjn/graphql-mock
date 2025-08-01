@@ -1,0 +1,6 @@
+{
+  "watch": ["*.js", "*.graphql"],
+  "ext": "js,graphql",
+  "ignore": ["node_modules/"],
+  "exec": "node server.js"
+}
